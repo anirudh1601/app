@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/EricaOne-Regular.ttf",
+      "sha1": "1c072e4083ed2e9289f43675f353ed1ff214b974"
+    },
+    {
+      "path": "src/assets/fonts/Fredoka-Medium.ttf",
+      "sha1": "dac864c17432337b69775a6a04a7f9673857a101"
+    }
+  ]
+}
